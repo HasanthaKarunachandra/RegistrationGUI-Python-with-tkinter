@@ -1,3 +1,3 @@
 # RegistrationGUI-Python-with-tkinter
 Basic GUI in python with tkinter
-youtube-https://www.youtube.com/watch?v=K10cDRfvPsk
+[![Watch the video](https://raw.githubusercontent.com/HasanthaKarunachandra/GetStartPythonToControlArduino/main/Play.jpg)](https://youtu.be/K10cDRfvPsk)
